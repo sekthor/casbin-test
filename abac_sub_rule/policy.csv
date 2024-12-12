@@ -1,0 +1,1 @@
+p, r.sub == 'admin' || r.obj.IsOwnedBy(r.sub), data1, read
