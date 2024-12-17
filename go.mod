@@ -3,7 +3,6 @@ module github.com/sekthor/casbin-testing
 go 1.23.2
 
 require (
-	github.com/casbin/casbin v1.9.1
 	github.com/casbin/casbin/v2 v2.102.0
 	gorm.io/gorm v1.25.12
 )
